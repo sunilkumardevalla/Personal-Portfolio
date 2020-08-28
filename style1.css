@@ -1,0 +1,62 @@
+* {
+    padding:0;
+    margin:0;
+}
+.header {
+position: fixed;
+top: 0px;
+left: 0px;
+width: 100%;
+padding-top: 10px;
+display: flex;
+flex-direction: column;
+align-items: flex-end;
+}
+
+#welcome-section {
+    min-height: 100px;
+    text-align: center;
+    background-color: burlywood;
+
+}
+
+#navbar {
+   background-color: red;
+    
+}
+#navbar a {
+    margin: 4vm;
+    text-decoration: inherit;
+    color: black;
+
+}
+
+}
+#welcome-section {
+    min-height: 100px;
+    text-align: center;
+}
+
+ul {
+    display: flex;
+    width: 100px;
+    margin: 0 -5px;
+    position: relative;
+    left: 80%;
+    align-content: space-between;
+}
+​
+li {
+    width: 60px;
+    height: 60px;
+    margin: 0 5px
+}
+​
+a {
+    color: black;
+}
+.img {
+    width: 700px;
+    height: 700px;
+
+}
